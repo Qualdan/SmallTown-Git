@@ -1,0 +1,428 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: LocalizedStrings Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: LocalizedStrings
+  m_TableCollectionNameGuidString: 8a8835934253ce941b4c8ef89f019993
+  m_Entries:
+  - m_Id: 11886057502007296
+    m_Key: Item/Pistol/Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11886057514590208
+    m_Key: Item/Pistol/Details
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11886057514590209
+    m_Key: Item/Knife/Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11886057514590210
+    m_Key: Item/Shotgun/Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12932498165063680
+    m_Key: Actions/Door/Locked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12932498211201024
+    m_Key: Actions/Door/Open
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12932498211201025
+    m_Key: Actions/Door/Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12932498211201026
+    m_Key: Actions/Door/Lockpick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12941917393248256
+    m_Key: Actions/Door/NoLockpicks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 928026451969
+    m_Key: Actions/Search
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1382161004355584
+    m_Key: Menu/Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1382161012744192
+    m_Key: Menu/Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1382161012744193
+    m_Key: Menu/Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1382161012744194
+    m_Key: Menu/Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1740867432865792
+    m_Key: Menu/NewGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1740867479003136
+    m_Key: Menu/LoadGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1740867479003137
+    m_Key: Menu/ContinueGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1749804752297984
+    m_Key: Menu/QuitGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1915229549092864
+    m_Key: Menu/Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1918881756078080
+    m_Key: Menu/Tutorials
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1915229599424512
+    m_Key: MenuMainMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1380903560404992
+    m_Key: Settings/Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788355706880
+    m_Key: Settings/Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901184
+    m_Key: Settings/Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1381393069236224
+    m_Key: Settings/Input
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242932399661056
+    m_Key: Settings/General
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901186
+    m_Key: Settings/Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242932399661057
+    m_Key: Settings/Difficulty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243957902794752
+    m_Key: Settings/Difficulty0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243957948932096
+    m_Key: Settings/Difficulty1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243957948932097
+    m_Key: Settings/Difficulty2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901188
+    m_Key: Settings/Screen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901189
+    m_Key: Settings/Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901190
+    m_Key: Settings/Windowed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901191
+    m_Key: Settings/VSync
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901192
+    m_Key: Settings/Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901193
+    m_Key: Settings/MasterVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901194
+    m_Key: Settings/MusicVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901195
+    m_Key: Settings/EffectsVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901196
+    m_Key: Settings/AmbientVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901197
+    m_Key: Settings/Camera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901198
+    m_Key: Settings/CameraSensitivity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2286183747936256
+    m_Key: Settings/InvertCamera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8265702900228096
+    m_Key: Settings/AutoCamera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1352968090673152
+    m_Key: Settings/ApplyChanges
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1412394369671168
+    m_Key: Credits/Developer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1412394369671169
+    m_Key: Credits/Design
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1412394373865472
+    m_Key: Credits/Graphics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1412394373865473
+    m_Key: Credits/Fonts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1412394373865474
+    m_Key: Credits/Tools
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2237857384095744
+    m_Key: Tutorial/Movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2237857434427392
+    m_Key: Tutorial/Activities
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2237857434427393
+    m_Key: Tutorial/Investigation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2237857434427394
+    m_Key: Tutorial/Navigation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5627072255877120
+    m_Key: Enemy/Cultist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5627072306208768
+    m_Key: Enemy/Cultist/EndScreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231020968370176
+    m_Key: Area/Floor/1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021010313216
+    m_Key: Area/Floor/2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021010313217
+    m_Key: Area/Floor/3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021010313218
+    m_Key: Area/Floor/4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021010313219
+    m_Key: Area/Floor/5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021010313220
+    m_Key: Area/Floor/6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021010313221
+    m_Key: Area/Floor/7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021010313222
+    m_Key: Area/Floor/8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021010313223
+    m_Key: Area/Floor/9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021010313224
+    m_Key: Area/Floor/10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7428180687183872
+    m_Key: Area/Basement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844433596416
+    m_Key: Area/Town/Library
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539456
+    m_Key: Area/Town/Bar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539457
+    m_Key: Area/Town/TownHall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539458
+    m_Key: Area/Town/PoliceStation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539459
+    m_Key: Area/Town/School
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539460
+    m_Key: Area/Town/Church
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539461
+    m_Key: Area/Town/Drugstore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539462
+    m_Key: Area/Town/Diner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539463
+    m_Key: Area/Town/Gymnasium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7436655014174720
+    m_Key: Area/Garage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539464
+    m_Key: Area/Town/Bank
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021018701824
+    m_Key: Area/Town/Belltower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539465
+    m_Key: Area/Town/Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539466
+    m_Key: Area/Town/DanceHall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539467
+    m_Key: Area/Town/HenrisParents
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539468
+    m_Key: Area/Town/HenrisRoom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11220617687719936
+    m_Key: Area/Hostile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539469
+    m_Key: Area/Town/Yard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17314878103478272
+    m_Key: Area/Office
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16288974187257856
+    m_Key: Area/Office/Office
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16288974191452160
+    m_Key: Area/Office/ShootingGallery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15890008413036544
+    m_Key: Area/Town
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15907976048009216
+    m_Key: Area/Areas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15907976056397824
+    m_Key: Area/FastTravel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16288974191452161
+    m_Key: Area/Mansion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844479733761
+    m_Key: Area/Mansion/Picnic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844479733762
+    m_Key: Area/Mansion/Main
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23050619798413312
+    m_Key: Area/Mansion/Side
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16288276955521024
+    m_Key: Area/Town/Motel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18064631070187520
+    m_Key: Area/Leave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15895333505589248
+    m_Key: Time/Day
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15895333505589249
+    m_Key: Time/Night
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15895526342909952
+    m_Key: Time/Arrive
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8356694297920929816
+  references:
+    version: 2
+    RefIds:
+    - rid: 8356694297920929816
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1694230100568

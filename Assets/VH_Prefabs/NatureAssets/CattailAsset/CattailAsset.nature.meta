@@ -1,0 +1,72 @@
+fileFormatVersion: 2
+guid: 232ca4ed7205e9f42b4faa09863efbe3
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: d2f8ca521d4faaa41b1d31f0f02aec62, type: 3}
+  _source: {instanceID: 0}
+  _format: 0
+  _materialImportSettings:
+    _convertMaterials: 1
+    _settings: []
+  _textureImportSettings:
+    _convertTextures: 0
+    _settings: []
+  _meshImportSettings:
+    _convertMeshes: 1
+    _meshComplexity: 1
+    _axisOrientation: 0
+    _trunkHasColliders: 0
+    _branchWindScale: 1
+    _leafWindScale: 1
+    _windVariation: 1
+    _mergeIntersecting: 0
+    _removeDoubleSidedFaces: 1
+    _settings: []
+  _importSettings:
+    _source: {fileID: 183874, guid: a5503ffe406b07b4bb813938a8811dcb, type: 3}
+    _format: 0
+    _materialImportSettings:
+      _convertMaterials: 1
+      _settings:
+      - Id: Cattail Material
+        Shader: Nature Shaders/Grass
+        Type: 6
+        Override: {fileID: 2100000, guid: 41e4057b7de161a44b9ac6eebd2face0, type: 2}
+        Wind: 1
+        Translucency: 1
+        Interaction: 1
+        Overlay: 1
+        FlipNormals: 1
+        Floats: []
+        Vectors: []
+        Colors: []
+        Textures: []
+    _textureImportSettings:
+      _convertTextures: 0
+      _settings:
+      - Id: Grass_Flowers
+        TextureQuality: 1
+        BoostSharpness: 1
+    _meshImportSettings:
+      _convertMeshes: 1
+      _meshComplexity: 1
+      _axisOrientation: 0
+      _trunkHasColliders: 0
+      _branchWindScale: 1
+      _leafWindScale: 1
+      _windVariation: 1
+      _mergeIntersecting: 0
+      _removeDoubleSidedFaces: 1
+      _settings:
+      - Id: cattail
+        SubMeshes:
+        - Id: Cattail Material
+          Type: 0
+    _rendererImportSettings:
+      _overrideCastShadows: 0
+      _castShadows: 1

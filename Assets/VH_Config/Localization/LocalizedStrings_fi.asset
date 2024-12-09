@@ -1,0 +1,423 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LocalizedStrings_fi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fi
+  m_SharedData: {fileID: 11400000, guid: 8a8835934253ce941b4c8ef89f019993, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1335788355706880
+    m_Localized: Kuva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901184
+    m_Localized: "\xC4\xE4net"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901186
+    m_Localized: Kieli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901188
+    m_Localized: "N\xE4ytt\xF6"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901189
+    m_Localized: Valitse resoluutio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901190
+    m_Localized: Ikkunoitu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901191
+    m_Localized: Vsync
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901192
+    m_Localized: "\xC4\xE4nentaso"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901193
+    m_Localized: Yleinen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901194
+    m_Localized: Musiikki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901195
+    m_Localized: Efektit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901196
+    m_Localized: "Ymp\xE4rist\xF6"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901197
+    m_Localized: Kamera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901198
+    m_Localized: Kameran herkkyys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1352968090673152
+    m_Localized: Tallenna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1380903560404992
+    m_Localized: Peli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1381393069236224
+    m_Localized: Laitteet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1382161004355584
+    m_Localized: Pelaa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1382161012744192
+    m_Localized: Asetukset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1382161012744193
+    m_Localized: "Tekij\xE4t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1382161012744194
+    m_Localized: Lopeta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1412394369671168
+    m_Localized: "Kehitt\xE4j\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1412394369671169
+    m_Localized: Suunnittelu/ohjelmointi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1412394373865472
+    m_Localized: Grafiikkaresurssit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1412394373865473
+    m_Localized: Fonttiresurssit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1412394373865474
+    m_Localized: "Ty\xF6kaluresurssit"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1740867432865792
+    m_Localized: Uusi peli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1740867479003136
+    m_Localized: Lataa peli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1740867479003137
+    m_Localized: "Jatka peli\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1749804752297984
+    m_Localized: "Poistu Pelist\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1915229549092864
+    m_Localized: "Jatka peli\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1915229599424512
+    m_Localized: "P\xE4\xE4valikko"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1918881756078080
+    m_Localized: Avustukset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2237857384095744
+    m_Localized: Liikkuminen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2237857434427392
+    m_Localized: Toiminnot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2237857434427393
+    m_Localized: Tutkimukset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2237857434427394
+    m_Localized: Suunnistus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242932399661056
+    m_Localized: Yleiset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242932399661057
+    m_Localized: Vaikeustaso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243957902794752
+    m_Localized: Helppo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243957948932096
+    m_Localized: Kohtalainen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243957948932097
+    m_Localized: Vaikea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2286183747936256
+    m_Localized: Vaihda kameran suunta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5627072255877120
+    m_Localized: Kultisti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5627072306208768
+    m_Localized: "N\xE4in p\xE4\xE4ttyipi teht\xE4v\xE4s'"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7428180687183872
+    m_Localized: Kellari
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7436655014174720
+    m_Localized: Autotalli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8265702900228096
+    m_Localized: Vaihda kuvakulma rakennukseen astuessa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11220617687719936
+    m_Localized: Vihamielinen alue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11886057502007296
+    m_Localized: Pistooli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11886057514590208
+    m_Localized: 6 luotia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11886057514590209
+    m_Localized: Puukko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11886057514590210
+    m_Localized: Haulikko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 928026451969
+    m_Localized: Tutki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12932498165063680
+    m_Localized: (lukittu)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12932498211201024
+    m_Localized: Avaa ovi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12932498211201025
+    m_Localized: Sulje ovi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12932498211201026
+    m_Localized: Tiirikoi lukko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12941917393248256
+    m_Localized: Ei tiirikoita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15890008413036544
+    m_Localized: "Kahjon kyl\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15895333505589248
+    m_Localized: "P\xE4iv\xE4ll\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15895333505589249
+    m_Localized: "Y\xF6ll\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15895526342909952
+    m_Localized: Saavu paikalle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15907976048009216
+    m_Localized: Alueet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15907976056397824
+    m_Localized: Pikamatkustus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844433596416
+    m_Localized: Kirjasto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539456
+    m_Localized: Baari
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539457
+    m_Localized: Kunnantalo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539458
+    m_Localized: Poliisitalo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539459
+    m_Localized: Koulu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539460
+    m_Localized: Kirkko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539461
+    m_Localized: Apteekki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539462
+    m_Localized: Ravintola
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539463
+    m_Localized: Liikuntatalo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539464
+    m_Localized: Pankki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539465
+    m_Localized: Kauppa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539466
+    m_Localized: Tanssisali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539467
+    m_Localized: Henrin vanhemmat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539468
+    m_Localized: Henrin huone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539469
+    m_Localized: Piha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844479733761
+    m_Localized: "Lev\xE4hdysalue"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844479733762
+    m_Localized: "P\xE4\xE4sis\xE4\xE4nk\xE4ynti"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16288276955521024
+    m_Localized: Motelli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16288974187257856
+    m_Localized: Toimisto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16288974191452160
+    m_Localized: Ampumarata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16288974191452161
+    m_Localized: Kartano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231020968370176
+    m_Localized: "Ensimm\xE4inen kerros"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021010313216
+    m_Localized: Toinen kerros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021010313217
+    m_Localized: Kolmas kerros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021010313218
+    m_Localized: "Nelj\xE4s kerros"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021010313219
+    m_Localized: Viides kerros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021010313220
+    m_Localized: Kuudes kerros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021010313221
+    m_Localized: "Seitsem\xE4s kerros"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021010313222
+    m_Localized: Kahdeksas kerros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021010313223
+    m_Localized: "Yhdeks\xE4s kerros"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021010313224
+    m_Localized: Kymmenes kerros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021018701824
+    m_Localized: Kellotorni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17314878103478272
+    m_Localized: Kaupunki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18064631070187520
+    m_Localized: Minun ei kannata vain vaeltaa pois alueelta.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23050619798413312
+    m_Localized: Sivuportti
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

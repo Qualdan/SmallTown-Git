@@ -1,0 +1,423 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LocalizedStrings_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 8a8835934253ce941b4c8ef89f019993, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 928026451969
+    m_Localized: Search
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788355706880
+    m_Localized: Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901184
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901186
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901188
+    m_Localized: Screen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901189
+    m_Localized: Choose Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901190
+    m_Localized: Windowed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901191
+    m_Localized: VSync
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901192
+    m_Localized: Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901193
+    m_Localized: Master
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901194
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901195
+    m_Localized: Effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901196
+    m_Localized: Ambient
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901197
+    m_Localized: Camera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335788359901198
+    m_Localized: Camera Sensitivity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1352968090673152
+    m_Localized: Apply
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1380903560404992
+    m_Localized: Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1381393069236224
+    m_Localized: Input
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1382161004355584
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1382161012744192
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1382161012744193
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1382161012744194
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1412394369671168
+    m_Localized: Developer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1412394369671169
+    m_Localized: Design/Programming
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1412394373865472
+    m_Localized: Graphics Providers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1412394373865473
+    m_Localized: Font Providers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1412394373865474
+    m_Localized: Tool Providers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1740867432865792
+    m_Localized: New Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1740867479003136
+    m_Localized: Load Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1740867479003137
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1749804752297984
+    m_Localized: Quit Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1915229549092864
+    m_Localized: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1915229599424512
+    m_Localized: Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1918881756078080
+    m_Localized: Tutorials
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2237857384095744
+    m_Localized: Movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2237857434427392
+    m_Localized: Activities
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2237857434427393
+    m_Localized: Investigation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2237857434427394
+    m_Localized: Navigation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242932399661056
+    m_Localized: General
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242932399661057
+    m_Localized: Difficulty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243957902794752
+    m_Localized: Easy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243957948932096
+    m_Localized: Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243957948932097
+    m_Localized: Hard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2286183747936256
+    m_Localized: Invert Camera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5627072255877120
+    m_Localized: Cultist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5627072306208768
+    m_Localized: So endeth thy quest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7428180687183872
+    m_Localized: Basement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7436655014174720
+    m_Localized: Garage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8265702900228096
+    m_Localized: Change view when entering building
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11220617687719936
+    m_Localized: Hostile Area
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11886057502007296
+    m_Localized: Pistol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11886057514590208
+    m_Localized: 6 bullets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11886057514590209
+    m_Localized: Knife
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11886057514590210
+    m_Localized: Shotgun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12932498165063680
+    m_Localized: (locked)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12932498211201024
+    m_Localized: Open door
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12932498211201025
+    m_Localized: Close door
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12932498211201026
+    m_Localized: Pick the lock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12941917393248256
+    m_Localized: No lockpicks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15890008413036544
+    m_Localized: Town of Kahjo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15895333505589248
+    m_Localized: Daytime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15895333505589249
+    m_Localized: Nighttime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15895526342909952
+    m_Localized: Arrive at
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15907976048009216
+    m_Localized: Areas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15907976056397824
+    m_Localized: Fast Travel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844433596416
+    m_Localized: Library
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539456
+    m_Localized: Bar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539457
+    m_Localized: Town Hall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539458
+    m_Localized: Police Station
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539459
+    m_Localized: School
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539460
+    m_Localized: Church
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539461
+    m_Localized: Drugstore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539462
+    m_Localized: Diner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539463
+    m_Localized: Gymnasium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539464
+    m_Localized: Bank
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539465
+    m_Localized: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539466
+    m_Localized: Dance Hall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539467
+    m_Localized: Henri's Parents
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539468
+    m_Localized: Henri's Room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844475539469
+    m_Localized: Yard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844479733761
+    m_Localized: Rest Stop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16284844479733762
+    m_Localized: Main Entrance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16288276955521024
+    m_Localized: Motel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16288974187257856
+    m_Localized: Office
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16288974191452160
+    m_Localized: Shooting Gallery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16288974191452161
+    m_Localized: Mansion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231020968370176
+    m_Localized: First Floor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021010313216
+    m_Localized: Second Floor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021010313217
+    m_Localized: Third Floor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021010313218
+    m_Localized: Fourth Floor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021010313219
+    m_Localized: Fifth Floor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021010313220
+    m_Localized: Sixth Floor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021010313221
+    m_Localized: Seventh Floor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021010313222
+    m_Localized: Eighth Floor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021010313223
+    m_Localized: Ninth Floor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021010313224
+    m_Localized: Tenth Floor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17231021018701824
+    m_Localized: Belltower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17314878103478272
+    m_Localized: The City
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18064631070187520
+    m_Localized: I shouldn't just wander off the area.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23050619798413312
+    m_Localized: Side Entrance
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

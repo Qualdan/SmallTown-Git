@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ff216c218340a54bbf916bfc09bcf59, type: 3}
+  m_Name: Config
+  m_EditorClassIdentifier: 
+  General:
+    Version: 
+    StartupState: 3
+    CharacterMask:
+      serializedVersion: 2
+      m_Bits: 448
+    HiddenMask:
+      serializedVersion: 2
+      m_Bits: 2147483648
+    PauseSpeed: 0.25
+  Player:
+    Mask:
+      serializedVersion: 2
+      m_Bits: 64
+    ActivationDistance: 1.5
+    MarkerFadeDuration: 0.25
+    MarkerHideDistance: 2
+    DenyFadeDuration: 0.5
+    RagdollMelee:
+      Multiplier: 150
+      Upwards: 100
+    RagdollFirearms:
+      Multiplier: 150
+      Upwards: 250
+    SneakingSpeed: 3
+    WalkingSpeed: 5
+    RunningSpeed: 12
+    LineSegments: 64
+    LineAngle: 20
+  Enemy:
+    Mask:
+      serializedVersion: 2
+      m_Bits: 128
+    TargetingMask:
+      serializedVersion: 2
+      m_Bits: 256
+    TargetingCircle:
+      current: 0
+      minimum: 0.25
+      maximum: 100
+    LineOffset: {x: 0, y: 0.5, z: 0}
+    WaypointOffset: {x: 1, y: 0, z: 1}
+    RagdollMelee:
+      Multiplier: 150
+      Upwards: 100
+    RagdollFirearms:
+      Multiplier: 250
+      Upwards: 250
+  Camera:
+    DefaultMask:
+      serializedVersion: 2
+      m_Bits: 1140851191
+    MapviewMask:
+      serializedVersion: 2
+      m_Bits: 1073742327
+    SeethroughDefaultMask:
+      serializedVersion: 2
+      m_Bits: 268435456
+    SeethroughMapviewMask:
+      serializedVersion: 2
+      m_Bits: 134217728
+    FollowSpeed: 5
+    ViewList:
+    - {x: 0, y: 20, z: -20}
+    - {x: 0, y: 25, z: -5}
+    MapView: {x: 0, y: 150, z: -5}
+    ViewSpeed: 0.5
+  Area:
+    AreaScenes:
+    - AreaKey: Area/Town
+      AreaName: TownCentre
+    - AreaKey: Area/Office
+      AreaName: Office
+    - AreaKey: Area/Mansion
+      AreaName: Mansion
+    FastTravelAreas:
+    - AreaKey: Area/Office
+      AreaSprite: {fileID: 21300000, guid: 9f68e4f593a149d47a5a20bdd54a4c65, type: 3}
+      FastTravelPoints:
+      - Area/Office/Office
+      - Area/Office/ShootingGallery
+    - AreaKey: Area/Town
+      AreaSprite: {fileID: 21300000, guid: 7bd2b96b3afb8ec41b9cbcefb5e1dd02, type: 3}
+      FastTravelPoints:
+      - Area/Town/Bank
+      - Area/Town/Bar
+      - Area/Town/Church
+      - Area/Town/DanceHall
+      - Area/Town/Diner
+      - Area/Town/Drugstore
+      - Area/Town/Gymnasium
+      - Area/Town/Library
+      - Area/Town/Motel
+      - Area/Town/PoliceStation
+      - Area/Town/School
+      - Area/Town/Shop
+      - Area/Town/TownHall
+    - AreaKey: Area/Mansion
+      AreaSprite: {fileID: 21300000, guid: da1bc899353bf764b9be53d538b345ad, type: 3}
+      FastTravelPoints:
+      - Area/Mansion/Main
+      - Area/Mansion/Side
+      - Area/Mansion/Picnic
+    FastTravelDelay: 2
+  Effects:
+    EaseIn: 30
+    EaseOut: 3
+    EaseInDuration: 0.25
+    EaseOutDuration: 0.5
+    HenrisRoomDuration: 0.25
+    HostileAreaDuration: 0.25
+  Item:
+    DoorMovementDuration: 0.25
+    HighlightShow: 0.25
+    HighlightHide: 0.25
+    BulletSpeed: 35
+    BulletTrail: 2
+  UI:
+    ChangePanelDuration: 0
+    MessageFadeDuration: 0
+    HostileTextColor: {r: 0.9411765, g: 0.3529412, b: 0.15686275, a: 1}
+    HenrisRoomTextColor: {r: 0.1568627, g: 0.5025498, b: 0.9411765, a: 1}
+    LockedColor: {r: 0.9411765, g: 0.3529412, b: 0.15686275, a: 1}
+    TooltipOffset: {x: 30, y: 30}
+    TooltipDuration: 0.5
+    CreditsSpeed: 0.05
+    CreditsStartup: 0.65
+  Debug:
+    EditorState: 1
+    DeveloperMode: 0
+    Logging: 0
+    ColorNormal: {r: 0.5019608, g: 0.7529412, b: 0.548573, a: 1}
+    ColorWarning: {r: 0.6117647, g: 0.60331017, b: 0.20392157, a: 1}
+    ColorError: {r: 0.5566038, g: 0.15437877, b: 0.15437877, a: 1}
+    ColorValue: {r: 0.37853327, g: 0.64481246, b: 0.9245283, a: 1}
